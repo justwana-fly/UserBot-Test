@@ -1,5 +1,5 @@
 {
-  "name": "userbot-test",
+  "name": "file-analyzer",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/jest": "^29.5.12",
